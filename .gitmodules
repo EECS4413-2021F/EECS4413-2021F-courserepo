@@ -1,0 +1,3 @@
+[submodule "A"]
+	path = A
+	url = git@github.com:EECS4413-2021F/Project-A.git
