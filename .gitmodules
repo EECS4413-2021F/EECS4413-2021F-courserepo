@@ -1,3 +1,6 @@
 [submodule "A"]
 	path = A
 	url = git@github.com:EECS4413-2021F/Module-A.git
+[submodule "B"]
+	path = B
+	url = git@github.com:EECS4413-2021F/Module-B.git
