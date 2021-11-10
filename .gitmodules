@@ -7,3 +7,6 @@
 [submodule "C"]
 	path = C
 	url = git@github.com:EECS4413-2021F/Module-C.git
+[submodule "D"]
+	path = D
+	url = git@github.com:EECS4413-2021F/Module-D.git
